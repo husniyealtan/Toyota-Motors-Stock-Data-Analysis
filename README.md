@@ -2,7 +2,6 @@
 Financial data analysis and trend reporting for Toyota Motors Stock Dataset using Python.
 
 📌 Project Description
-
 This is a group project focused on analyzing Toyota's historical motors stock data to identify long-term trends and volatility.
 
 👤 My Role & Technical Contributions:
