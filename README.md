@@ -16,7 +16,7 @@ Data Scaling & Time Series Splitting: Implemented robust scaling and ensured chr
 
 Dimensionality Reduction (PCA & Kernel PCA): Applied PCA and Kernel PCA to identify principal components and handle non-linear relationships in stock fluctuations.
 
-<img width="1790" height="490" alt="pca-kernelpca" src="https://github.com/user-attachments/assets/67fa0a1e-3d8d-4965-9028-541570a33351" />
+<img width="100%" alt="pca-kernelpca" src="https://github.com/user-attachments/assets/67fa0a1e-3d8d-4965-9028-541570a33351" />
 
 🔍 Analytical Interpretation
 
